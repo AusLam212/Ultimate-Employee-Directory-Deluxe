@@ -11,7 +11,7 @@ class EmployeeContainer extends Component {
     //Set initial state of app
     state = {
         employees,
-        searchedEmployees: [...employees],
+        searchedEmployees: [...employees]
     };
 
     // When value is inserted into input update state
@@ -38,7 +38,7 @@ class EmployeeContainer extends Component {
                             key={employee.id.value}
                             image={employee.picture.large}
                             id={employee.id.value}
-                            name={employee.name.first + " " + employee.name.last}
+                            name={employee.name}
                             phone={employee.phone}
                             email={employee.email}
                         />

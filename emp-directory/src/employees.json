@@ -1,11 +1,7 @@
 [
     {
         "gender": "female",
-        "name": {
-            "title": "Miss",
-            "first": "Britney",
-            "last": "Sims"
-        },
+        "name": "Britney Sims",
         "location": {
             "street": {
                 "number": 9617,
@@ -57,11 +53,7 @@
     },
     {
         "gender": "female",
-        "name": {
-            "title": "Ms",
-            "first": "Imogen",
-            "last": "Edwards"
-        },
+        "name": "Imogen Edwards",
         "location": {
             "street": {
                 "number": 7394,
@@ -113,11 +105,7 @@
     },
     {
         "gender": "female",
-        "name": {
-            "title": "Ms",
-            "first": "Lillian",
-            "last": "Simmmons"
-        },
+        "name": "Lillian Simmmons",
         "location": {
             "street": {
                 "number": 1317,
@@ -169,11 +157,7 @@
     },
     {
         "gender": "female",
-        "name": {
-            "title": "Ms",
-            "first": "Jessica",
-            "last": "Torres"
-        },
+        "name": "Jessica Torres",
         "location": {
             "street": {
                 "number": 3685,
@@ -225,11 +209,7 @@
     },
     {
         "gender": "male",
-        "name": {
-            "title": "Mr",
-            "first": "Alban",
-            "last": "Leclerc"
-        },
+        "name": "Alban Leclerc",
         "location": {
             "street": {
                 "number": 640,
@@ -281,11 +261,7 @@
     },
     {
         "gender": "male",
-        "name": {
-            "title": "Mr",
-            "first": "Sam",
-            "last": "Howard"
-        },
+        "name": "Sam Howard",
         "location": {
             "street": {
                 "number": 2894,
@@ -337,11 +313,7 @@
     },
     {
         "gender": "female",
-        "name": {
-            "title": "Miss",
-            "first": "Patricia",
-            "last": "Flores"
-        },
+        "name": "Patricia Flores",
         "location": {
             "street": {
                 "number": 8664,
@@ -393,11 +365,7 @@
     },
     {
         "gender": "female",
-        "name": {
-            "title": "Mrs",
-            "first": "Katja",
-            "last": "Pijnenburg"
-        },
+        "name": "Katja Pijnenburg",
         "location": {
             "street": {
                 "number": 9194,
@@ -449,11 +417,7 @@
     },
     {
         "gender": "female",
-        "name": {
-            "title": "Ms",
-            "first": "Isla",
-            "last": "Autio"
-        },
+        "name": "Isla Autio",
         "location": {
             "street": {
                 "number": 8288,
@@ -505,11 +469,7 @@
     },
     {
         "gender": "female",
-        "name": {
-            "title": "Mrs",
-            "first": "Addison",
-            "last": "Ross"
-        },
+        "name": "Addison Ross",
         "location": {
             "street": {
                 "number": 7501,
@@ -561,11 +521,7 @@
     },
     {
         "gender": "female",
-        "name": {
-            "title": "Miss",
-            "first": "Alicia",
-            "last": "Claire"
-        },
+        "name": "Alicia Claire",
         "location": {
             "street": {
                 "number": 6424,
@@ -617,11 +573,7 @@
     },
     {
         "gender": "male",
-        "name": {
-            "title": "Mr",
-            "first": "Andre",
-            "last": "Cooper"
-        },
+        "name": "Andre Cooper",
         "location": {
             "street": {
                 "number": 3235,
@@ -673,11 +625,7 @@
     },
     {
         "gender": "female",
-        "name": {
-            "title": "Ms",
-            "first": "Other",
-            "last": "Claire"
-        },
+        "name": "Other Claire",
         "location": {
             "street": {
                 "number": 951,
@@ -729,11 +677,7 @@
     },
     {
         "gender": "male",
-        "name": {
-            "title": "Mr",
-            "first": "Arttu",
-            "last": "Rautio"
-        },
+        "name": "Arttu Rautio",
         "location": {
             "street": {
                 "number": 4794,
@@ -785,11 +729,7 @@
     },
     {
         "gender": "male",
-        "name": {
-            "title": "Mr",
-            "first": "دانیال",
-            "last": "سلطانی نژاد"
-        },
+        "name": "Rick Rickson",
         "location": {
             "street": {
                 "number": 6675,
@@ -841,11 +781,7 @@
     },
     {
         "gender": "male",
-        "name": {
-            "title": "Mr",
-            "first": "Adrien",
-            "last": "Renaud"
-        },
+        "name": "Adrien Renaud",
         "location": {
             "street": {
                 "number": 5529,
@@ -897,11 +833,7 @@
     },
     {
         "gender": "female",
-        "name": {
-            "title": "Miss",
-            "first": "Mestan",
-            "last": "Küçükler"
-        },
+        "name": "Mestan Küçükler",
         "location": {
             "street": {
                 "number": 269,
@@ -953,11 +885,7 @@
     },
     {
         "gender": "female",
-        "name": {
-            "title": "Miss",
-            "first": "Sunniva",
-            "last": "Nordbø"
-        },
+        "name": "Sunniva Nordbø",
         "location": {
             "street": {
                 "number": 2475,
@@ -1009,11 +937,7 @@
     },
     {
         "gender": "female",
-        "name": {
-            "title": "Ms",
-            "first": "Chloe",
-            "last": "Richardson"
-        },
+        "name": "Chloe Richardson",
         "location": {
             "street": {
                 "number": 5145,
@@ -1065,11 +989,7 @@
     },
     {
         "gender": "male",
-        "name": {
-            "title": "Mr",
-            "first": "Charles",
-            "last": "Campbell"
-        },
+        "name": "Charles Campbell",
         "location": {
             "street": {
                 "number": 8761,
@@ -1121,11 +1041,7 @@
     },
     {
         "gender": "male",
-        "name": {
-            "title": "Mr",
-            "first": "Ryan",
-            "last": "Ruiz"
-        },
+        "name": "Ryan Ruiz",
         "location": {
             "street": {
                 "number": 3224,
@@ -1177,11 +1093,7 @@
     },
     {
         "gender": "male",
-        "name": {
-            "title": "Mr",
-            "first": "Derek",
-            "last": "Gonzales"
-        },
+        "name": "Derek Gonzales",
         "location": {
             "street": {
                 "number": 4260,
@@ -1233,11 +1145,7 @@
     },
     {
         "gender": "male",
-        "name": {
-            "title": "Mr",
-            "first": "Joel",
-            "last": "Ahola"
-        },
+        "name": "Joel Ahola",
         "location": {
             "street": {
                 "number": 7635,
@@ -1289,11 +1197,7 @@
     },
     {
         "gender": "female",
-        "name": {
-            "title": "Madame",
-            "first": "Karina",
-            "last": "Rey"
-        },
+        "name": "Karina Rey",
         "location": {
             "street": {
                 "number": 1568,
@@ -1345,11 +1249,7 @@
     },
     {
         "gender": "female",
-        "name": {
-            "title": "Mrs",
-            "first": "Enni",
-            "last": "Seppanen"
-        },
+        "name": "Enni Seppanen",
         "location": {
             "street": {
                 "number": 224,
